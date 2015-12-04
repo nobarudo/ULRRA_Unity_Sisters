@@ -4,8 +4,8 @@ using UnityEngine;
 public class PointController : MonoBehaviour
 {
 
-    public GUIText total;
-    public GUIText coin;
+    public UnityEngine.UI.Text total;
+    public UnityEngine.UI.Text coin;
 
     private static PointController m_instance;
 
