@@ -68,9 +68,10 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\Blocktriangle.cs" />
-    <Compile Include="Assets\FollowPlayer.cs" />
-    <Compile Include="Assets\Retray.cs" />
+    <Compile Include="Assets\Script\Blocktriangle.cs" />
+    <Compile Include="Assets\Script\FollowPlayer.cs" />
+    <Compile Include="Assets\Script\Retray.cs" />
+    <Compile Include="Assets\Script\floorBlock.cs" />
     <Compile Include="Assets\UnityChan2D\Demo\Scripts\AudioSourceController.cs" />
     <Compile Include="Assets\UnityChan2D\Demo\Scripts\BlockController.cs" />
     <Compile Include="Assets\UnityChan2D\Demo\Scripts\BrokenBlockController.cs" />
@@ -85,7 +86,6 @@
     <Compile Include="Assets\UnityChan2D\Demo\Scripts\StartController.cs" />
     <Compile Include="Assets\UnityChan2D\Demo\Scripts\TimeController.cs" />
     <Compile Include="Assets\UnityChan2D\Scripts\UnityChan2DController.cs" />
-    <Compile Include="Assets\floorBlock.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\UnityChan2D\Demo\Sounds\Voice\unity-chan_voice_list.txt" />
